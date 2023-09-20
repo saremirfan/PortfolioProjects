@@ -1,5 +1,4 @@
-# PortfolioProjects
-Welcome to My GitHub Portfolio Projects!
+# Welcome to My GitHub Portfolio Projects!
 
 In this repository, you'll find a collection of my portfolio projects that showcase my expertise in SQL and Python. 
 These projects encompass a wide range of data analysis tasks, providing insights into my skills in data manipulation, 
